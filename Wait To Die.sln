@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wait To Die", "Assembly-CSharp.csproj", "{511EB779-00C4-2B44-3FC0-559D09B7CED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511EB779-00C4-2B44-3FC0-559D09B7CED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511EB779-00C4-2B44-3FC0-559D09B7CED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511EB779-00C4-2B44-3FC0-559D09B7CED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511EB779-00C4-2B44-3FC0-559D09B7CED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
